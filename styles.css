@@ -1,1 +1,29 @@
 /* Write your CSS here! */
+
+
+
+body {
+
+    background-color: black;
+    color: white;
+    margin: 8px;
+    display: block;
+    padding: 300px;
+}
+
+#mainHeading{
+    font-size: 44px;
+    color: red
+}
+
+h2, h3, h4, h5, h6{
+    font-size: 30px;
+}
+
+p {
+    font-size: 20px;
+}
+
+.funParagraph {
+    color: green
+}
